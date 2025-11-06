@@ -94,6 +94,7 @@ navbar-background: bg-dark
 bootswatch: # leave blank or comment out for plain bootstrap
 
 # THEME FONTS
+theme: jekyll-theme-midnight
 base-font-size: 1.2em
 text-color: "#191919"
 link-color: "#0d6efd"
