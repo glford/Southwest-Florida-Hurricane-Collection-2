@@ -20,12 +20,15 @@ This collection focuses on gathering objects and materials related to hurricanes
 
 "Hurricane Heads for Keys; Islanders Start Evacuating" read the headline on September 9, 1960 from the Fort Myers News-Press. They reported that Hurricane Donna was going to be the largest storm to hit the region since 1947, 13 years ago. Just a day ago, news from Havana, Cuba, detailed the storm's wrath, furious winds and pounding seas, as it destoryed coastal communities causing already 115 reported deaths. As Donna pushed toward Florida, Key West became deserted as hundreds fled toward the mainland. As the roadways became jammed packed, Miami's stores were being cleared of flashlights, batteries, candles, canned food, and camp stoves before they closed that night. 
 
+{% include feature/image.html objectid="/objects/fgcu_manuscript_001.jpeg" width="75" %}
+
 In Fort Myers, schools closed early as hurricane preperations also got underway. Evacuations of Lee County's islands had already begun as hurricane watches loomed over Southwest Florida.
 
-{% include feature/image.html objectid="/objects/fgcu_manuscript_001.jpeg" width="75" %}
+{% include feature/image.html objectid="/objects/fgcu_manuscript_002.jpeg" width="75" %}
 
 On September 11, the wrath of Hurricane Donna struck Southwest Florida. The next day, on the 12th, the Fort Myers News-Press released an article on the aftermath. Rufe Daughtrey described Bonita Beach as "a scene of devastation as though a war had been fought" in the twisted ruins of buildings, cracked trees, and tangled wires through the flooded streets. Another person's home was described as "gone except for one windowless wall left standing bleak as a bombed-out home on a battlefield." Two persons were reported missing and over 300 homes damaged. Schools were to be closed for two days as fish swam in Everglades streets.
 
+{% include feature/image.html objectid="/objects/fgcu_photograph_023.jpg" width="75" %}
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
