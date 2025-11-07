@@ -24,7 +24,7 @@ This collection focuses on gathering objects and materials related to hurricanes
 
 In Fort Myers, schools closed early as hurricane preperations also got underway. Evacuations of Lee County's islands had already begun as hurricane watches loomed over Southwest Florida. Hurricane warning flags flapped in the gusty winds with periodic rain. The clock turned to September 10th as the last preparations were made as the reckoning neared.
 
-{% include feature/image.html objectid="/objects/fgcu_manuscript_022.pdf" width="75" %}
+{% include feature/image.html objectid="/objects/fgcu_photograph_009.jpeg" width="75" %}
 
 On September 11, the wrath of Hurricane Donna struck Southwest Florida. The next day, on the 12th, the Fort Myers News-Press released an article on the aftermath. Rufe Daughtrey described Bonita Beach as "a scene of devastation as though a war had been fought" in the twisted ruins of buildings, cracked trees, and tangled wires through the flooded streets. Another person's home was described as "gone except for one windowless wall left standing bleak as a bombed-out home on a battlefield." Two persons were reported missing and over 300 homes damaged. Schools were to be closed for two days as fish swam in Everglades streets.
 
