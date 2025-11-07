@@ -20,5 +20,7 @@ This collection focuses on gathering objects and materials related to hurricanes
 
 "Hurricane Heads for Keys; Islanders Start Evacuating" read the headline on September 9, 1960 from the Fort Myers News-Press. They reported that Hurricane Donna was going to be the largest storm to hit the region since 1947, 13 years ago. Just a day ago, news from Havana, Cuba, detailed the storm's wrath, furious winds and pounding seas, as it destoryed coastal communities causing already 115 reported deaths. As Donna pushed toward Florida, Key West became deserted as hundreds fled toward the mainland. As the roadways became jammed packed, Miami's stores were being cleared of flashlights, batteries, candles, canned food, and camp stoves before they closed that night. 
 
+In Fort Myers, schools closed early as hurricane preperations also got underway. Evacuations of Lee County's islands had already begun as hurricane watches loomed over Southwest Florida.
+
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
