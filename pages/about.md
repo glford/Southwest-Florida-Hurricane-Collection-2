@@ -18,7 +18,7 @@ This collection focuses on gathering objects and materials related to hurricanes
 
 ## Hurricane Donna
 
-
+"Hurricane Heads for Keys; Islanders Start Evacuating" read the headline on September 9, 1960 from the Fort Myers News-Press. They reported that Hurricane Donna was going to be the largest storm to hit the region since 1947, 13 years ago.
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
