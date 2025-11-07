@@ -30,5 +30,9 @@ On September 11, the wrath of Hurricane Donna struck Southwest Florida. The next
 
 {% include feature/image.html objectid="/objects/fgcu_photograph_023.jpg" width="75" %}
 
+Donna claimed nine lives in Florida while damage estimates soared to nearly a billion dollars. U.S. President Dwight D. Eisenhower proclaimed Lee County and other affected areas as a major disaster area with the promise of federal aid. Already by the 13th, the Fort Myers News-Press reported that drinking water and power had been restored to many areas as Lee County Electric Cooperative and Inter-County Telephone Co. worked relentlessly. The Civil Defense organization brought in 60,000 pounds of dry ice into Fort Myers alone to help refrigerate items. 
+
+{% include feature/image.html objectid="/objects/fgcu_photograph_013.jpeg" width="75" %}
+
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
