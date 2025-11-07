@@ -22,7 +22,7 @@ This collection focuses on gathering objects and materials related to hurricanes
 
 In Fort Myers, schools closed early as hurricane preperations also got underway. Evacuations of Lee County's islands had already begun as hurricane watches loomed over Southwest Florida.
 
-{% include feature/image.html objectid="fgcu_manuscript_001" width="75" %}
+{% include feature/image.html objectid="/objects/fgcu_manuscript_001.jpeg" width="75" %}
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
