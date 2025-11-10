@@ -38,11 +38,10 @@ Hurricane Donna claimed nine lives in Florida while damage estimates soared to n
 
 {% include feature/image.html objectid="/objects/fgcu_photograph_013.jpeg" width="75" %}
 
-Ernie Stevens, a poet of Fort Myers wrote, "There was a young lady named Donna. To meet her I'm sure you don't wanna. She came from Key West Full of vigor and zest And ruined our flora and fuana." Hurricane Donna damaged Florida agriculture and nature reserves. The citrus producing counties of Polk, Orange, and Lake were estimated to sustained $250 million in damages to their citrus crop. Everglades National Park was also tore up as the hurricane blew across the state. 
+Ernie Stevens, a poet of Fort Myers wrote, "There was a young lady named Donna. To meet her I'm sure you don't wanna. She came from Key West Full of vigor and zest And ruined our flora and fuana." Hurricane Donna damaged Florida agriculture and nature reserves. The citrus producing counties of Polk, Orange, and Lake were estimated to sustained $250 million in damages to their citrus crop. Citrus trees had been uprooted and broken in Labelle and Fort Denaud. Everglades National Park was also tore up as the hurricane blew across the state. 
 
 {% include feature/image.html objectid="/objects/fgcu_manuscript_002.jpeg" width="75" %}
 
 While Florida got to work on repairing damages, Hurricane Donna continued her path northward, sweeping across the Carolinas before slamming finally into New England. As the hurricane died out, it killed 20 dead in the U.S. and cost damages along the entire East Coast. Hurricane Donna highlighted that well-in-advance alerts kept loss of life to a low level. 
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+{% include feature/image.html objectid="/objects/fgcu_manuscript_018.jpeg" width="75" %}
