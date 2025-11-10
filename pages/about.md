@@ -34,9 +34,15 @@ Punta Gorda estimated that 1,220 homes had been damaged with 18 demolished. Road
 
 {% include feature/image.html objectid="/objects/fgcu_photograph_024.jpg" width="75" %}
 
-Donna claimed nine lives in Florida while damage estimates soared to nearly a billion dollars. U.S. President Dwight D. Eisenhower proclaimed Lee County and other affected areas as a major disaster area with the promise of federal aid. Already by the 13th, the Fort Myers News-Press reported that drinking water and power had been restored to many areas as Lee County Electric Cooperative and Inter-County Telephone Co. worked relentlessly. The Civil Defense organization brought in 60,000 pounds of dry ice into Fort Myers alone to help refrigerate items. 
+Hurricane Donna claimed nine lives in Florida while damage estimates soared to nearly a billion dollars. U.S. President Dwight D. Eisenhower proclaimed Lee County and other affected areas as a major disaster area with the promise of federal aid. Already by the 13th, the Fort Myers News-Press reported that drinking water and power had been restored to many areas as Lee County Electric Cooperative and Inter-County Telephone Co. worked relentlessly. The Civil Defense organization brought in 60,000 pounds of dry ice into Fort Myers alone to help refrigerate items. 
 
 {% include feature/image.html objectid="/objects/fgcu_photograph_013.jpeg" width="75" %}
+
+Ernie Stevens, a poet of Fort Myers wrote, "There was a young lady named Donna. To meet her I'm sure you don't wanna. She came from Key West Full of vigor and zest And ruined our flora and fuana." Hurricane Donna damaged Florida agriculture and nature reserves. The citrus producing counties of Polk, Orange, and Lake were estimated to sustained $250 million in damages to their citrus crop. Everglades National Park was also tore up as the hurricane blew across the state. 
+
+{% include feature/pdf.html objectid="fgcu_manuscript_022" width="50" %}
+
+While Florida got to work on repairing damages, Hurricane Donna continued her path northward, sweeping across the Carolinas before slamming finally into New England. As the hurricane died out, it killed 20 dead in the U.S. and cost damages along the entire East Coast. Hurricane Donna highlighted that well-in-advance alerts kept loss of life to a low level. 
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
